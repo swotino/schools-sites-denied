@@ -1,5 +1,11 @@
 # Blocked Websites List for Schools
 # This file contains websites that should be blocked in educational institutions
+#
+# Usage Instructions:
+# - Each line contains one domain that should be blocked
+# - Lines starting with # are comments
+# - Subdomains should be implicitly blocked (e.g., blocking example.com also blocks www.example.com)
+# - This list can be imported into web filtering software, firewall rules, or DNS filtering systems
 
 # Gaming Websites
 miniclip.com

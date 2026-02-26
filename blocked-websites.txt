@@ -1,0 +1,52 @@
+# Blocked Websites List for Schools
+# This file contains websites that should be blocked in educational institutions
+#
+# Usage Instructions:
+# - Each line contains one domain that should be blocked
+# - Lines starting with # are comments
+# - Subdomains should be implicitly blocked (e.g., blocking example.com also blocks www.example.com)
+# - This list can be imported into web filtering software, firewall rules, or DNS filtering systems
+
+# Gaming Websites
+miniclip.com
+pogo.com
+kongregate.com
+armorgames.com
+addictinggames.com
+crazygames.com
+y8.com
+friv.com
+kizi.com
+agame.com
+mousebreaker.com
+girlsgogames.com
+gogy.com
+playhub.com
+steamcommunity.com
+twitch.tv
+roblox.com
+fortnite.com
+leagueoflegends.com
+epicgames.com
+
+# Betting and Gambling Websites
+bet365.com
+888casino.com
+williamhill.com
+pokerstars.com
+betfair.com
+ladbrokes.com
+bwin.com
+unibet.com
+paddypower.com
+fanduel.com
+draftkings.com
+bovada.lv
+betonline.ag
+sportsbetting.ag
+mybookie.ag
+ignitioncasino.eu
+slots.lv
+cafe-casino.lv
+betway.com
+coral.co.uk
